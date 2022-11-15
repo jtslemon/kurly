@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kurly/static/css/main.d486ab53.css",
+    "main.js": "/kurly/static/js/main.171e3a81.js",
+    "static/js/787.8bd421d8.chunk.js": "/kurly/static/js/787.8bd421d8.chunk.js",
+    "index.html": "/kurly/index.html",
+    "main.d486ab53.css.map": "/kurly/static/css/main.d486ab53.css.map",
+    "main.171e3a81.js.map": "/kurly/static/js/main.171e3a81.js.map",
+    "787.8bd421d8.chunk.js.map": "/kurly/static/js/787.8bd421d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d486ab53.css",
+    "static/js/main.171e3a81.js"
+  ]
+}
